@@ -5,7 +5,10 @@ First I import all the necessary libraries and define function mach(M,r). Then, 
 I used values of mach(M,r) function near 0 to estimate value of variable M there. So, it could be seen in what range it lays and could be possible to choose first guess of boundary values.
 
 Plot 1
+
 ![image](https://github.com/leilaakisheva/Root-finding/assets/128895782/79084b19-937b-4ed3-8000-ab7b4956d4e3)
+
+
 Value of Mach number = 0.102 at y = -0.0019463699774129317
 Value of Mach number = 3.169 at y = -0.0018225091595096554
 Value of Mach number = 3.17 at y = -0.003950741360807752
@@ -14,6 +17,7 @@ Value of Mach number = 3.172 at y = -0.008193539584907539
 
 
 ERROR PLOT
+
 ![image](https://github.com/leilaakisheva/Root-finding/assets/128895782/8c2fa586-8cc5-4d58-a2fa-7cc14373f7d0)
 
 Plot 2
